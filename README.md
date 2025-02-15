@@ -24,7 +24,7 @@ Coloca estos archivos en la carpeta del proyecto.
 🚀 Instalación y Ejecución
 Clona el repositorio
 
-git clone https://github.com/tuusuario/AnalizadorFacial-Java.git
+git clone [https://github.com/tuusuario/AnalizadorFacial-Java.git](https://github.com/Miguel-Manzanilla/AnalizadorFacial-Java.git)
 
 cd AnalizadorFacial-Java
 
